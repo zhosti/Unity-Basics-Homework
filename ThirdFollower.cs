@@ -4,10 +4,6 @@ using System.Collections;
 public class ControllSphereChildThree : MonoBehaviour
 {
 
-	
-	// Update is called once per frame
-
-
 		public float speed = 2.1f;
 		public Transform thirdSphere;
 		
